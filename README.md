@@ -1,5 +1,4 @@
 # Machine_Learning_Projects_Repo
-Here's a humanized version of the repository description for your machine learning projects:
 
 ---
 
